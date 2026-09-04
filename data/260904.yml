@@ -7,7 +7,7 @@ about:
   head: 588e73d
   archived: false
   latestVersion: v1.1.8
-  collectedAt: 2026-09-04T19:30:33Z
+  collectedAt: 2026-09-04T21:01:51Z
 timeline:
   created: 2025-06-29
   lastCommit: 2026-06-18
@@ -82,5 +82,43 @@ total:
   openIssue: 9
   commit: 51
 ---
+path: /home/runner/.x-repo/github.com/jamubc/gemini-mcp-tool
+collectedAt: 2026-09-04T21:01:52Z
+loc:
+  Json:
+    code: 5267
+    comments: 0
+    blanks: 0
+    files: 4
+  TypeScript:
+    code: 3873
+    comments: 495
+    blanks: 501
+    files: 43
+  JavaScript:
+    code: 231
+    comments: 47
+    blanks: 32
+    files: 2
+  Sh:
+    code: 166
+    comments: 42
+    blanks: 60
+    files: 2
+  Markdown:
+    code: 0
+    comments: 1805
+    blanks: 607
+    files: 22
+  Text:
+    code: 0
+    comments: 3
+    blanks: 0
+    files: 1
+total:
+  code: 9744
+  comments: 2442
+  blanks: 1223
+  files: 74
 ---
 
