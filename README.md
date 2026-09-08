@@ -1,6 +1,24 @@
----
-owner-repo: jamubc/gemini-mcp-tool
-desc:   MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding 
----
-
 # gemini-mcp-tool
+
+MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding
+
+- **Upstream**: <https://github.com/jamubc/gemini-mcp-tool>
+- **Homepage**: <https://jamubc.github.io/gemini-mcp-tool/>
+- **Latest release**: `v1.1.8` (2026-06-18)
+- **Last commit**: 2026-06-18
+- **License**: NOASSERTION
+- **Stars**: 2279 · **Forks**: 199 · **Open issues**: 27 · **Contributors**: 5
+
+## Installation
+
+```sh
+x install gemini-mcp-tool
+```
+
+See <https://x-cmd.com/install/gemini-mcp-tool> for details.
+
+## Data
+
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+
+_Last regenerated: 2026-09-08T11:27:08Z._
