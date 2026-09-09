@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.1.8"
   latestRelease: "v1.1.8"
   latestPrerelease: "v1.2.0-beta.1"
-  collectedAt: 2026-09-09T05:32:18Z
+  collectedAt: 2026-09-09T19:26:15Z
 timeline:
   created: 2025-06-29
   lastCommit: 2026-06-18
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-06-18
   lastPrerelease: 2026-05-30
 popularity:
-  star: 2279
+  star: 2280
   watcher: 20
   fork: 199
   release: 6
@@ -85,7 +85,7 @@ total:
   commit: 51
 ---
 path: /home/runner/.x-repo/github.com/jamubc/gemini-mcp-tool
-collectedAt: 2026-09-09T05:32:19Z
+collectedAt: 2026-09-09T19:26:17Z
 loc:
   Json:
     code: 5267
