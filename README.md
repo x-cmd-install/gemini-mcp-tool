@@ -7,7 +7,7 @@ MCP server that enables AI assistants to interact with Google Gemini CLI, levera
 - **Latest release**: `v1.1.8` (2026-06-18)
 - **Last commit**: 2026-06-18
 - **License**: NOASSERTION
-- **Stars**: 2279 · **Forks**: 199 · **Open issues**: 27 · **Contributors**: 5
+- **Stars**: 2280 · **Forks**: 199 · **Open issues**: 27 · **Contributors**: 5
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/gemini-mcp-tool> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:32:22Z._
+_Last regenerated: 2026-09-09T19:26:40Z._
