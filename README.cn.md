@@ -4,7 +4,7 @@
 
 MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding
 
-![gemini-mcp-tool](https://repo.x-cmd.io/gemini-mcp-tool.svg)
+![gemini-mcp-tool](https://repo.x-cmd.io/gemini-mcp-tool.svg?lang=zh)
 
 ## 安装
 
@@ -12,35 +12,7 @@ MCP server that enables AI assistants to interact with Google Gemini CLI, levera
 x install gemini-mcp-tool
 ```
 
-## 源代码
-
-- **上游仓库**: <https://github.com/jamubc/gemini-mcp-tool>
-- **官网**: <https://jamubc.github.io/gemini-mcp-tool/>
-- **许可证**: NOASSERTION
-
-## 发布
-
-- **最新版本**: `v1.1.8` (2026-06-18)
-- **最近提交**: 2026-06-18
-- **发布时间**: 2026-06-18T07:17:15Z
-
-## 流行度
-
-- **Star**: 2,280 · **Fork**: 199 · **开放 issue**: 27 · **贡献者**: 5
-
-## 累计统计
-
-- **发布数**: 6 · **已合并 PR**: 11 · **开放 PR**: 19 · **已关闭 issue**: 18 · **开放 issue**: 9 · **提交数**: 51
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 1 | 2 | 3 | 0 | 2 | 2 |
-| 360d | 2025-09-15 | 5 | 6 | 17 | 12 | 4 | 10 |
-
-## 代码规模
+## 代码洞察
 
 合计: **9,537** 行代码（覆盖前 5 种语言、共 **73** 个文件）。
 
@@ -52,6 +24,36 @@ x install gemini-mcp-tool
 | Sh | 166 | 42 | 60 | 2 |
 | Markdown | 0 | 1,805 | 607 | 22 |
 
+## 源代码
+
+- **上游仓库**: <https://github.com/jamubc/gemini-mcp-tool>
+- **官网**: <https://jamubc.github.io/gemini-mcp-tool/>
+- **许可证**: NOASSERTION
+
+## 发布
+
+- **最新版本**: `v1.1.8` (2026-06-18)
+- **最近提交**: 2026-06-18
+
+## 流行度
+
+- **Star**: 2,281 · **Fork**: 199 · **开放 issue**: 27 · **贡献者**: 5
+
+## 累计统计
+
+- **发布数**: 6 · **已合并 PR**: 11 · **开放 PR**: 19 · **已关闭 issue**: 18 · **开放 issue**: 9 · **提交数**: 51
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 2 | 0 | 1 | 0 |
+| 90d | 2026-06-13 | 1 | 2 | 3 | 0 | 2 | 2 |
+| last180d | 2026-03-15 | 5 | 6 | 14 | 7 | 2 | 10 |
+| 360d | 2025-09-16 | 5 | 6 | 17 | 12 | 4 | 10 |
+| last720d | 2024-09-21 | 6 | 11 | 19 | 18 | 9 | 51 |
+
 ## 改进这些数据
 
 gemini-mcp-tool 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `gemini-mcp-tool` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -61,4 +63,4 @@ gemini-mcp-tool 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:34:06Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:04:05Z._
