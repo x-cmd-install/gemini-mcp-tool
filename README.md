@@ -37,7 +37,7 @@ Total: **9,537** lines of code across **73** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,286 · **Forks**: 203 · **Open issues**: 27 · **Contributors**: 5
+- **Stars**: 2,287 · **Forks**: 203 · **Open issues**: 27 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **9,537** lines of code across **73** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-07 | 0 | 0 | 2 | 0 | 2 | 0 |
-| last180d | 2026-04-08 | 5 | 6 | 14 | 6 | 2 | 10 |
-| 360d | 2025-10-10 | 5 | 6 | 17 | 12 | 4 | 10 |
-| last720d | 2024-10-15 | 6 | 11 | 19 | 18 | 9 | 51 |
+| 30d | 2026-09-06 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-07 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-08 | 0 | 0 | 2 | 0 | 2 | 0 |
+| last180d | 2026-04-09 | 5 | 6 | 14 | 6 | 2 | 10 |
+| 360d | 2025-10-11 | 5 | 6 | 17 | 12 | 4 | 10 |
+| last720d | 2024-10-16 | 6 | 11 | 19 | 18 | 9 | 51 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for gemini-mcp-tool lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:07:33Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T06:58:51Z._
