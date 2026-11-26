@@ -47,12 +47,12 @@ Total: **9,537** lines of code across **73** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-29 | 4 | 5 | 13 | 0 | 2 | 3 |
-| 360d | 2025-11-30 | 5 | 6 | 17 | 9 | 4 | 10 |
-| last720d | 2024-12-05 | 6 | 11 | 19 | 18 | 9 | 51 |
+| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-30 | 4 | 4 | 11 | 0 | 2 | 3 |
+| 360d | 2025-12-01 | 5 | 6 | 17 | 9 | 4 | 10 |
+| last720d | 2024-12-06 | 6 | 11 | 19 | 18 | 9 | 51 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for gemini-mcp-tool lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:40:35Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:50:52Z._
